@@ -1,21 +1,30 @@
-# Free Courses
+Index of free Educational resources. You can contribute [here](https://github.com/club-fcem/edu-index/pulls) or suggest them on  our [Telegram community ](https://t.me/+Q-EQyIhGdBYxNDcx)
+
+
+## Free Courses
  
-1. Torrents:
-	1. 1337x
-	2. The Pirate Bay
-      3. Academic Torrents
-      4. RuTracker
-      4. You can also search on a powerful public torrent metadata search engine like BTDig
+ 1. Torrents:
+	 * [1337x](https://1337x.to/)
+	 * [The Pirate Bay](https://thepiratebay.org/)
+	 * [Academic Torrents](https://academictorrents.com/)
+	 * [RuTracker](https://rutracker.org/)
+	 * You can also search on a powerful public torrent metadata search engine like [BTDig](http://btdig.com/)
 
 2. Free MOOC sites:
-	1. EdX
-	2. KhanAcademy
-	3. NPTEL (of course)
-	4. Coursera
-	5. MIT OCW
+	  * [EdX](https://www.edx.org/)
+	  * [KhanAcademy](https://www.khanacademy.org/)
+	  * [NPTEL](https://nptel.ac.in/) (of course)
+	  * [Coursera](https://www.coursera.org/)
+	  * [MIT OCW](https://ocw.mit.edu/)
 
 3. DDL Sites
-	1. https://downloadly.ir/
-	2. https://freecoursesite.com/
-	3. https://online-courses.club/
-	4. https://gigacourse.com/
+	  * [Downloadly](https://downloadly.ir/)
+	  * [FreeCourseSite](https://freecoursesite.com/)
+	  * [Aiplex](https://aiplex.lol)
+	  * [Online-Courses-Club](https://online-courses.club/)
+	  * [GigaCourse]( https://gigacourse.com/)
+	  * [BitDownload](https://bitdownload.ir/learning/)
+
+4. Forums (much more than just courses)
+	* [TutFlix](https://tutflix.org/) 
+	* [MatrixServer](https://matrixserver.in)
