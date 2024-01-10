@@ -24,6 +24,7 @@ Index of free Educational resources. You can contribute [here](https://github.co
 	  * [Online-Courses-Club](https://online-courses.club/)
 	  * [GigaCourse]( https://gigacourse.com/)
 	  * [BitDownload](https://bitdownload.ir/learning/)
+          * [Anna's Archive](https://annas-archive.org/) (For e-books)
 
 4. Forums (much more than just courses)
 	* [TutFlix](https://tutflix.org/) 
