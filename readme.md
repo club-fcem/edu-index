@@ -31,3 +31,8 @@ Index of free Educational resources. You can contribute [here](https://github.co
 	* [TutFlix](https://tutflix.org/) 
 	* [MatrixServer](https://matrixserver.in)
  	* [HacksNation](https://hacksnation.com/)
+
+
+## Misc
+
+[WorldMags](https://worldmags.net/) (free magazines)
