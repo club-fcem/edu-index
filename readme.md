@@ -26,13 +26,10 @@ Index of free Educational resources. You can contribute [here](https://github.co
 	  * [GigaCourse]( https://gigacourse.com/)
 	  * [BitDownload](https://bitdownload.ir/learning/)
 	  * [Anna's Archive](https://annas-archive.org/)
+   	  * [WorldMags](https://worldmags.net/) (free magazines)
+	  * [EbooksYard](https://www.ebooksyard.com/) (Latest Magazines and E-books)
 
 4. Forums (much more than just courses)
 	* [TutFlix](https://tutflix.org/) 
 	* [MatrixServer](https://matrixserver.in)
  	* [HacksNation](https://hacksnation.com/)
-
-
-## Misc
-
-[WorldMags](https://worldmags.net/) (free magazines)
