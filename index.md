@@ -2,8 +2,7 @@
 Index of free Educational resources. You can contribute [here](https://github.com/club-fcem/edu-index/pulls) or suggest them on  our [Telegram community ](https://t.me/+Q-EQyIhGdBYxNDcx)
 
 
-
-1. Torrents:
+ 1. Torrents:
 	 * [1337x](https://1337x.to/)
 	 * [The Pirate Bay](https://thepiratebay.org/)
 	 * [Academic Torrents](https://academictorrents.com/)
@@ -31,4 +30,4 @@ Index of free Educational resources. You can contribute [here](https://github.co
 4. Forums (much more than just courses)
 	* [TutFlix](https://tutflix.org/) 
 	* [MatrixServer](https://matrixserver.in)
- 	* [HacksNation](https://hacksnation.com/)
+	* [HacksNation](https://hacksnation.com/)
